@@ -1,2 +1,0 @@
-# gitlol
-just for fun
